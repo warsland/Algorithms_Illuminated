@@ -1,0 +1,6 @@
+﻿  QuickSort.cpp
+  LINK : 没有找到 D:\study\Algorithms_Illuminated\x64\Debug\Algorithms_Illuminated.exe 或上一个增量链接没有生成它；正在执行完全链接
+RSelect.obj : error LNK2005: "int __cdecl Partition(int *,int,int)" (?Partition@@YAHPEAHHH@Z) 已经在 QuickSort.obj 中定义
+RSelect.obj : error LNK2005: "int __cdecl random(int,int)" (?random@@YAHHH@Z) 已经在 QuickSort.obj 中定义
+RSelect.obj : error LNK2005: "void __cdecl swap(int &,int &)" (?swap@@YAXAEAH0@Z) 已经在 QuickSort.obj 中定义
+D:\study\Algorithms_Illuminated\x64\Debug\Algorithms_Illuminated.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
